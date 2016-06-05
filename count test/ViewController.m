@@ -8,6 +8,8 @@
 
 #import "ViewController.h"
 
+// おひさしぶりです　ob−c
+
 @interface ViewController ()
 
 {
