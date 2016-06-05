@@ -9,6 +9,7 @@
 #import "ViewController.h"
 
 // おひさしぶりです　ob−c
+// おきてーーーーー
 
 @interface ViewController ()
 
